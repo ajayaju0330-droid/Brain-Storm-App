@@ -91,3 +91,4 @@ No build process is required
 No package.json is needed
 
 CI/CD pipeline test
+Pipeline trigger test 2
