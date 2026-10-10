@@ -92,3 +92,4 @@ No package.json is needed
 
 CI/CD pipeline test
 Pipeline trigger test 2
+Pipeline trigger test 3
